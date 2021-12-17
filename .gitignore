@@ -1,0 +1,11 @@
+node_modules
+*.bmpr
+*.zip
+.sass-cache
+*.txt
+tarea sass 30-11
+tareas
+tareasass30-11
+bootstrap_local
+backup
+.vs
